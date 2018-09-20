@@ -1,6 +1,9 @@
 # Udacity Data Science Nanodegree
 ## Project: Wrting a Blog Post based on Findings in Airbnb Data
 
+## Note:
+### Blog post version published on medium. You can follow the link here: https://medium.com/@zhitaowang/how-to-increase-the-value-and-book-rate-of-your-airbnb-home-e5d887e40f60
+
 ### Table of Contents
 
 1. [Motivation](#motivation)
@@ -20,8 +23,6 @@ Using the Boston and Seattle Airbnb dataset, this project aims to answer four bu
 3. How well can we predict the listing price? This can provide a reference quote to potential hosts who are interested in the business, or any host who want revaluation on their properties.
 
 4. What are key attributes of listings that make AirBnB guest choose one over the other? This will provide tips to newbies ready to start their business, or old hosts struggling to attract more guests to their listings.
-
-There's also a simplified version published on medium. You can follow the link here: https://medium.com/@zhitaowang/how-to-increase-the-value-and-book-rate-of-your-airbnb-home-e5d887e40f60
 
 ### Installation <a name="install"></a>
 
