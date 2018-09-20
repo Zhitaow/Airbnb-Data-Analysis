@@ -21,6 +21,8 @@ Using the Boston and Seattle Airbnb dataset, this project aims to answer four bu
 
 4. What are key attributes of listings that make AirBnB guest choose one over the other? This will provide tips to newbies ready to start their business, or old hosts struggling to attract more guests to their listings.
 
+There's also a simplified version published on medium. You can follow the link here: https://medium.com/@zhitaowang/how-to-increase-the-value-and-book-rate-of-your-airbnb-home-e5d887e40f60
+
 ### Installation <a name="install"></a>
 
 Clone this repo: https://github.com/Zhitaow/Airbnb-Data-Analysis.git
