@@ -1,7 +1,6 @@
 # Udacity Data Science Nanodegree
 ## Project: Wrting a Blog Post based on Findings in Airbnb Data
 
-## Note:
 ### Blog post version published on medium. You can follow the link here: https://medium.com/@zhitaowang/how-to-increase-the-value-and-book-rate-of-your-airbnb-home-e5d887e40f60
 
 ### Table of Contents
