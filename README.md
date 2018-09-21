@@ -105,5 +105,7 @@ AirBnB guest often make decisions based on the following aspects:
 
 In summary, guests tend to choose the listing with more reviews and good rating score. In addtion, they also prefer experienced hosts, and appreciate a smooth communication with the host. Last but not least, price is the key factor that finalizes guests' decision.
 ### Licensing, Authors, and Acknowledgements <a name="licensing"></a>
+Please feel free to folk this repository. I will be glad that if you can find some other interesting insights from the data, and plese let me know. You can leave comments on my blog post [here](https://medium.com/@zhitaowang/how-to-increase-the-value-and-book-rate-of-your-airbnb-home-e5d887e40f60).
+
 Credit to Airbnb for the open data. All data are downloaded from [here](http://insideairbnb.com/get-the-data.html). 
 You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle) and [here](https://www.kaggle.com/airbnb/boston).
